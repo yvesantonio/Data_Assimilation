@@ -1,4 +1,4 @@
-# Data-Assimilation
+# Data Assimilation
 
 ## Introduction
 
